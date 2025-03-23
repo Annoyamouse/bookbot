@@ -1,2 +1,3 @@
 # bookbot
-Boor.Dev bookbot case study project
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
